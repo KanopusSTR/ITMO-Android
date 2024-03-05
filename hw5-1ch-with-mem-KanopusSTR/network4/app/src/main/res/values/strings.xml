@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">network4</string>
+    <string name="start">Start service</string>
+    <string name="stop">Stop service</string>
+    <string name="write_your_text_here">write your text here</string>
+    <string name="ArrowDown">↓</string>
+    <string name="ArrowUp">↑</string>
+    <string name="pin">📎</string>
+    <string name="send">▶</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW_6/7</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="write_your_text_here">write your text here</string>
+    <string name="ArrowDown">↓</string>
+    <string name="ArrowUp">↑</string>
+    <string name="pin">📎</string>
+    <string name="send">▶</string>
+    <string name="refresh">↻</string>
+</resources>

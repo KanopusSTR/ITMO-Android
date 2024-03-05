@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name_1">1</string>
+    <string name="name_2">2</string>
+    <string name="name_3">3</string>
+    <string name="name_4">4</string>
+    <string name="name_5">5</string>
+    <string name="name_6">6</string>
+    <string name="name_7">7</string>
+    <string name="name_8">8</string>
+    <string name="name_9">9</string>
+    <string name="name_0">0</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
+    <string name="point">.</string>
+    <string name="equal">=</string>
+    <string name="del">C</string>
+</resources>

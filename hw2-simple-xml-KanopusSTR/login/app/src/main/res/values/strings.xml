@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="enter_login">enter login</string>
+    <string name="enter_pass">enter password</string>
+    <string name="login">LOGIN</string>
+    <string name="password">enter password</string>
+    <string name="emptyL">error: you don\'t write login</string>
+    <string name="errLP">error: you write incorrect login or password</string>
+    <string name="emptyP">error: you don\'t write password</string>
+    <string name="emptyLP">error: you don\'t write login and password</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لاگ ان کریں</string>
+    <string name="enter_login">لاگ ان درج کریں</string>
+    <string name="enter_pass">پاس ورڈ درج کریں</string>
+    <string name="login">لاگ ان کریں</string>
+    <string name="password">پاس ورڈ درج کریں</string>
+    <string name="errLP">غلطی: آپ غلط لاگ ان یا پاس ورڈ لکھتے ہیں۔</string>
+    <string name="emptyL">غلطی: آپ لاگ ان نہیں لکھتے ہیں۔</string>
+    <string name="emptyP">غلطی: آپ پاس ورڈ نہیں لکھتے</string>
+    <string name="emptyLP">غلطی: آپ لاگ ان اور پاس ورڈ نہیں لکھتے ہیں۔</string>
+</resources>
